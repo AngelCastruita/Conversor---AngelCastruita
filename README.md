@@ -1,4 +1,4 @@
-# Conversor---AngelCastruita
+# Conversor - AngelCastruita
 <h4>Conversor V1 creado por Angel Gabriel Castruita como solucion al challenge de Alura Latam que forma parte del programa One-Oracle Next Education impartido por Oracle Corporation.</h4>
 <p align="center">
    <img src="https://img.shields.io/badge/VERSI%C3%93N-V1.0-rgb(15%2C128%2C193)">
@@ -32,7 +32,10 @@ o simbolos especiales.
 <li>En el caso de hacer cambio de temperatura solo se acepta numeros y el simbolo negativo, en caso de querer cambiar temperatura negativa.</li>
 
 
-<h4> Video </h4>
+<h2>Conversor - Video:</h2>
+<p>https://youtu.be/7N_Jrel6yF8</p>
+
+
 
 
 
